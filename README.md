@@ -1,4 +1,3 @@
-Arduino Education Day 2024 - Arduino Student Kit Competition
 <p align="center">
   <a href="https://github.com/seannachapat">
     <img src="img/telescope.svg" width="150" height="150">
