@@ -4,6 +4,7 @@
   </a>
   <h3 align="center">Projectile Launcher</h3>
   <p align="center">🔭 Arduino Education Day 2024 - Arduino Student Kit Competition.<p/>
+  <p align="center">🥈 first runner-up & Outstanding Projectile Launcher Award.<p/>
   <p align="center">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> 
